@@ -1,24 +1,21 @@
-# app-vue-e-rotas-new
+# Escopo e objetivo
 
-## Project setup
-```
-yarn install
-```
+Fundamentos da Seção 8 do curso "Curso Vue Js do zero ao avançado na prática" (Udemy)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+(a) VueJs
+(b) Yarn
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Fundamentos aplicados
+- Configurar rotas (childrens, beforeEnter, beforeLeave, 404)
+- Service API com Axios
+- Router-links
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Iniciando...
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- `git clone https://github.com/thiagostudier/avancando-com-vuejs-e-rotas.git`
+- `cd avancando-com-vuejs-e-rotas`
+
+> _Parte da configuração: Necessário instalar o yarn
+
+- `yarn install`
+- `yarn serve`
